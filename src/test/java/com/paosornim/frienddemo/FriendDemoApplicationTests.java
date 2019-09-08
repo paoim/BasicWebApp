@@ -12,5 +12,4 @@ public class FriendDemoApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }

@@ -26,10 +26,9 @@ http://localhost:8080/swagger-ui.html
 ### post /api/v1/friends
 
 ## Project Docs
-- @Controller for controller in spring
+- @RestController will have @Controller and @ResponseBody
 - @RequestMapping for mapping request
 - @Api for API doc by using Swagger
-- @ResponseBody for returning response body
 - @GetMapping for HTTP Get
 - @PostMapping for HTTP Post
 - @ApiOperation for API doc by using Swagger
