@@ -32,6 +32,10 @@ http://localhost:8080/swagger-ui.html
 - @GetMapping for HTTP Get
 - @PostMapping for HTTP Post
 - @ApiOperation for API doc by using Swagger
+- @RunWith
+- @WebMvcTest
+- @SpringBootTest
+- @AutoConfigureMockMvc
 
 ## Project Dependency in pom.xml
 ### Web is Spring MVC (required)
